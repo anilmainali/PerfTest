@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\LR\Scripts\WT3_w1250_HTML_Based_Script
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\lr\scripts\wt3_w1250_html_based_script\\logfile.log
+c:\lr\scripts\wt3_w1250_html_based_script\\combined_WT3_w1250_HTML_Based_Script.c
+c:\lr\scripts\wt3_w1250_html_based_script\\pre_cci.c

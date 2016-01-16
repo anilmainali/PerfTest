@@ -4,4 +4,7 @@
 
 ### What is the difference between *Functional* and *Performance Testing*?
 
-### What comes under  *Performance Testing*?
+### Why we do Performance Testing?
+
+### What are different types of *Performance Testing*?
+

@@ -10,6 +10,7 @@
 ## Vugen Scripting
 0. Recording best practice.
 0. Enhancement of script
+0. Steps to create a Correlation Library
 
 ## Controller
 0. Controller summary

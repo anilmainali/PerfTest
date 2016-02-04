@@ -12,5 +12,8 @@
 0. Enhancement of script
 
 ## Controller
+0. Controller summary
+0. How to Pull the script to controller?
+0. 
 
 

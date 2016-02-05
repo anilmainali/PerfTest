@@ -71,4 +71,38 @@ Case 3: A Place to be filled either by a Digit or a letter
 
 web_reg_save_param (“Corr_Param”, “LB/ALNUM=a^b\=”, “RB/IC=rb”, LAST);
 
+http://blogs.hexaware.com/quality-assurance-and-testing-services/to-speed-up-correlation-in-load-runner/
+
+To Speed Up Correlation in Load Runner
+
+In general, the following will be in sequence in the generation log:
+
+1. Requests (includes request header and body).
+
+2. Responses (includes response header and body).
+
+3. The API function which corresponds to the above requests.
+
+Having above in mind, when you see a dynamic value in the script, do the following steps to correlate it:
+
+
+
+1. Copy the section of value which is not encoded
+
+2. Search the value in the generation log.
+
+
+
+3. Once you located the value, from there type “web_” to find the API function which corresponds to the above response that contains the dynamic value as below.
+
+
+
+4. Go to script to find the same API function that actually retrieves the dynamic value from the server (Always use snapshot id to search the particular API function in the script, t168.inf in this case). You can find the value in response of the API function in the tree view as below:
+
+
+
+5. Select the value and correlate it.
+
+The above method is an easy and optimized way to correlate the dynamic values in the script as we are able to locate the request easily that retrieves the dynamic value.
+
 

@@ -13,8 +13,8 @@
 
 ##### What is Performance Testing Process?
 
-##### What are the different Performance Test Tools?
+##### Some popular performance testing tools:
 
-##             LoadRunner 
+### LoadRunner 
 
-##             JMeter
+### JMeter

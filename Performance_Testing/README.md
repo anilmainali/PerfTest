@@ -13,9 +13,13 @@
 
 ##### What is Performance Testing Process?
 
+#### Tool selection process while conducting Performance Testing:
+
+##### Paid vs Open Source Tools:
+
 ##### Some popular performance testing tools:
 
-### LoadRunner 
+#### LoadRunner 
 
 #### LoadRunner and its history.
 

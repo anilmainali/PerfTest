@@ -17,7 +17,7 @@
 
 ##### Paid vs Open Source Tools:
 
-##### Some popular performance testing tools:
+##### Some popular Paid performance testing tools:
 
 #### LoadRunner 
 
@@ -26,5 +26,7 @@
 #### Why LoadRunner?
 
 #### Componets of LoadRunner
+
+Some Open Source Tools for Performance Testing:
 
 ### JMeter

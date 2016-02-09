@@ -1,3 +1,3 @@
-Generating Vuser Scripts in JavaScript:
+#Generating Vuser Scripts in JavaScript.
 
 Steps to Generating Vuser Scripts in JavaScript:

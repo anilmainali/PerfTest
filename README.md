@@ -10,6 +10,11 @@ Process of Performance Testing.
 
 ## Popular Tools For Performance Testing.
 0. LoadRunner
+
+Why LoadRunner?
+
+LoadRunner Components.
+
 1. JMeter
 2. OctoPerf
 3. NeoToys

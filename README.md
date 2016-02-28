@@ -4,6 +4,8 @@ What is Perf Testing?
 
 Difference between Perftesting And Manual Testing.
 
+Process of Performance Testing.
+
 
 
 ## Popular Tools For Performance Testing.

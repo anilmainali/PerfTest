@@ -14,6 +14,11 @@ Process of Performance Testing.
 Why LoadRunner?
 
 LoadRunner Components.
+0. VuGen
+1. Controller
+2. Load Balancer
+3. Analysis
+
 
 1. JMeter
 2. OctoPerf

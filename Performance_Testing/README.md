@@ -22,6 +22,7 @@ For example:
 - Check out transaction
 - Log out transaction.
 
+So we have to calculate the response time for each Transaction.And compare it to what it should be according to the SLA.If it is within the SLA thats great but if it does not meet the SLA then you as a performance tester have to figure out why it is taking more than the SLA.or find the issues with the application under test or find the bottleneck.
 
 
 

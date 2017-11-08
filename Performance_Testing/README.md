@@ -2,6 +2,12 @@
 
 ### Introduction : 
 ##### What is Performance Testing?
+Performance Testing is testing an application to validate the 
+- Speed
+- Scabilility
+- Stability
+
+under virtual user load in production like environment with the intention of meeting Non-Functional requirement.
 
 ##### What is the difference between Functional and Performance Testing?
 

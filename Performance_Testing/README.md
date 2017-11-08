@@ -7,6 +7,8 @@ Performance Testing is testing an application to validate the
 - Scabilility
 - Stability
 
+under virtual user load in production like environment with the intention of meeting Non-Functional requirement.
+
 Here the speed means the transactions response time.[TRT] we have to calculate the transaction response time for each of those transaction.
 
 #### What is Transaction?
@@ -21,7 +23,7 @@ For example:
 - Log out transaction.
 
 
-under virtual user load in production like environment with the intention of meeting Non-Functional requirement.
+
 
 ##### What is the difference between Functional and Performance Testing?
 

@@ -12,4 +12,6 @@ Welcome to my PerTest Repo where I will be writing about all my everyday learnin
 
 ## Different types of tools you use to Perform Performance Testing.
 
+## Terminology that are used in Performance Testing World.
+
 

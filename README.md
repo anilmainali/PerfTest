@@ -7,3 +7,7 @@ Welcome to my PerTest Repo where I will be writing about all my everyday learnin
 ## Difference between Performance and Functional Testing.
 
 ## Why Performance Testing?
+
+## How you conduct Performance Testing?
+
+

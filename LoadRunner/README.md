@@ -7,6 +7,12 @@ https://software.microfocus.com/en-us/software/loadrunner
 ## What's New in LoadRunner v.12.55?
 https://admhelp.microfocus.com/lr/en/latest/help/WebHelp/Content/WelcomeContent/c_WhatsNew.htm
 
+## Latest roadrunner links for all resources:
+* Visit LoadRunner Official Site: https://software.microfocus.com/en-us/software/loadrunner
+
+* HPE LoadRunner Help Center : https://admhelp.microfocus.com/lr/en/latest/help/WebHelp/Content/Resources/_TopNav/
+
+
 
 
 

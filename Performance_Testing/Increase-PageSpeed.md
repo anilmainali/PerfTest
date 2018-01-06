@@ -4,4 +4,5 @@
 
 
 ## Resources: 
-- https://www.youtube.com/watch?v=pNKnhBIVj4w
+### Getting Your PageSpeed Score Up
+ https://www.youtube.com/watch?v=pNKnhBIVj4w
